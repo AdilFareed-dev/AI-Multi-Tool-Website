@@ -1,0 +1,8 @@
+{
+  "name": "AI Multi-Tool Suite",
+  "description": "A comprehensive suite of 25 AI-powered tools leveraging the Gemini API for content creation, analysis, media generation, and real-time interaction.",
+  "requestFramePermissions": [
+    "microphone",
+    "geolocation"
+  ]
+}
